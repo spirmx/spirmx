@@ -2,6 +2,6 @@
 - 👀 I’m interested in web development, cybersecurity, and network administration.
 - 🌱 I’m currently learning HTML, shell scripting, data backups, and restoring with rsync and tar.
 - 💞️ I’m looking to collaborate on tech projects, student clubs like SPU Cyber Club, and developing secure systems.
-- 📫 How to reach me: [your contact method here].
-- 😄 Pronouns: [your pronouns here].
+- 📫 How to reach me: [].
+- 😄 Pronouns: [HE].
 - ⚡ Fun fact: I recently organized a project for the SPU Cyber Club to help freshmen navigate the tech world!
